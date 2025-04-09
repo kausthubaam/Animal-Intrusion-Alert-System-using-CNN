@@ -1,3 +1,5 @@
+Animal_Intrusion_alert_system_using_CNN
+
 Introduction
 
 This project aims to develop a system that automatically detects the presence of animals in specific areas, such as farms or restricted zones, using Convolutional Neural Networks (CNN). The system leverages machine learning techniques to identify animals in images or video feeds and triggers an alert when an intrusion is detected. The goal is to provide a real-time solution to prevent crop damage or unwanted intrusion by wild animals, enhancing security and protecting resources.
